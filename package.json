@@ -10,15 +10,15 @@
     "gulpplugin"
   ],
   "dependencies": {
-    "gulp-util": "^3.0.2",
+    "gulp-util": "^3.0.7",
     "merge": "^1.2.0",
-    "through2": "^0.6.3",
-    "vinyl-sourcemaps-apply": "^0.1.4"
+    "through2": "^2.0.1",
+    "vinyl-sourcemaps-apply": "^0.2.1"
   },
   "devDependencies": {
-    "gulp-sourcemaps": "^1.3.0",
-    "mocha": "^2.1.0",
-    "should": "^4.6.2"
+    "gulp-sourcemaps": "^2.2.0",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
   },
   "peerDependencies": {
     "coffee-script": "*"
@@ -27,7 +27,7 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">= 0.9.0"
+    "node": ">= 6.0.0"
   },
   "license": "MIT"
 }
