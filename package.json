@@ -21,7 +21,7 @@
     "should": "^4.6.2"
   },
   "peerDependencies": {
-    "coffee-script": "*",
+    "coffee-script": "*"
   },
   "scripts": {
     "test": "mocha"
